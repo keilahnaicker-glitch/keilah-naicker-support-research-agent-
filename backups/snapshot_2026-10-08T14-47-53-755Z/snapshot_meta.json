@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-08T14:47:53.756Z",
+  "reason": "escalate_case_CS-20023",
+  "tables": [
+    "customers",
+    "products",
+    "orders",
+    "payments",
+    "refunds",
+    "support_cases",
+    "policies"
+  ]
+}

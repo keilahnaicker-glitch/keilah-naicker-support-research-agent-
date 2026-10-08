@@ -1,0 +1,6 @@
+{
+  "name": "H9loop Support Resolver",
+  "description": "AI-powered customer support and refund resolver agent for H9loop with strict policy enforcement, POPIA compliance, exact case tracking, and audit verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

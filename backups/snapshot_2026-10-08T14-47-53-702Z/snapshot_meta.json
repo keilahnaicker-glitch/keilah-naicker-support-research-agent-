@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-10-08T14:47:53.703Z",
+  "reason": "process_refund_H9-10162",
+  "tables": [
+    "customers",
+    "products",
+    "orders",
+    "payments",
+    "refunds",
+    "support_cases",
+    "policies"
+  ]
+}
